@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Paris",
+    "country": "France",
+    "activities": {
+      "adventure": ["Seine River Kayaking", "Hot Air Balloon Ride"],
+      "relaxation": ["Spa Day", "Seine River Cruise"],
+      "culture": ["Louvre Museum", "Eiffel Tower Tour"],
+      "food": ["French Cuisine Tasting", "Wine Tasting"]
+    },
+    "baseCost": 1000
+  },
+  {
+    "name": "New-York",
+    "country": "USA",
+    "activities": {
+      "adventure": ["Seine River Kayaking", "Hot Air Balloon Ride"],
+      "relaxation": ["Spa Day", "Seine River Cruise"],
+      "culture": ["Louvre Museum", "Eiffel Tower Tour"],
+      "food": ["French Cuisine Tasting", "Wine Tasting"]
+    },
+    "baseCost": 1000
+  },
+  {
+    "name": "Rome",
+    "country": "Italy",
+    "activities": {
+      "adventure": ["Seine River Kayaking", "Hot Air Balloon Ride"],
+      "relaxation": ["Spa Day", "Seine River Cruise"],
+      "culture": ["Louvre Museum", "Eiffel Tower Tour"],
+      "food": ["French Cuisine Tasting", "Wine Tasting"]
+    },
+    "baseCost": 1000
+  },
+
+  {
+    "name": "Berlin",
+    "country": "Germany",
+    "activities": {
+      "adventure": ["Seine River Kayaking", "Hot Air Balloon Ride"],
+      "relaxation": ["Spa Day", "Seine River Cruise"],
+      "culture": ["Louvre Museum", "Eiffel Tower Tour"],
+      "food": ["French Cuisine Tasting", "Wine Tasting"]
+    },
+    "baseCost": 1000
+  },
+  {
+    "name": "Tokyo",
+    "country": "Japan",
+    "activities": {
+      "adventure": ["Mount Fuji Hiking", "Tokyo Skydiving"],
+      "relaxation": ["Japanese Onsen", "Shinjuku Gyoen National Garden"],
+      "culture": ["Senso-ji Temple", "Tokyo National Museum"],
+      "food": ["Sushi Making Workshop", "Ramen Tasting"]
+    },
+    "baseCost": 1200
+  }
+]
